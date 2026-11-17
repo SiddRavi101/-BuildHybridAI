@@ -1,0 +1,26 @@
+{
+  "id": "hypothermia",
+  "title": "Hypothermia",
+  "icon": "\ud83e\udd76",
+  "source": {
+    "name": "CDC \u2014 Winter Weather: Hypothermia \u2014 U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/winter-weather/"
+  },
+  "steps": [
+    "Call or radio for help.",
+    "Get the person out of wind and cold, into shelter if possible.",
+    "Remove wet clothing and replace with dry layers.",
+    "Insulate them from the ground.",
+    "Warm the center of the body first: chest, neck, head and groin.",
+    "Use dry blankets, a sleeping bag, or skin-to-skin contact under loose dry layers.",
+    "If the person is alert and can swallow, give warm, sweet, non-alcoholic drinks.",
+    "Handle the person gently. Keep them dry and wrapped, including head and neck.",
+    "If there is no breathing or pulse, start CPR."
+  ],
+  "callForHelp": [
+    "Shivering stops while still cold",
+    "Confusion, slurred speech or drowsiness",
+    "Unresponsive"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "severe-bleeding",
+  "title": "Severe bleeding",
+  "icon": "\ud83e\ude78",
+  "source": {
+    "name": "Stop the Bleed \u2014 U.S. Department of Homeland Security",
+    "url": "https://www.dhs.gov/stopthebleed"
+  },
+  "steps": [
+    "Make sure the scene is safe for you.",
+    "Call or radio for help now.",
+    "Find where the bleeding is coming from. Expose the wound.",
+    "Press hard and directly on the wound with a clean cloth or gauze.",
+    "If an arm or leg keeps bleeding through pressure, apply a tourniquet two to three inches above the wound, not on a joint.",
+    "Tighten the tourniquet until the bleeding stops. Note the time it was applied.",
+    "For a deep wound that cannot take a tourniquet, pack it tightly with gauze, then keep pressing.",
+    "Keep pressure on until help takes over."
+  ],
+  "callForHelp": [
+    "Bleeding that will not stop with firm pressure",
+    "Blood spurting or pooling",
+    "Tourniquet applied"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}

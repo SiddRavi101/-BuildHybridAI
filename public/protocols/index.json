@@ -1,0 +1,32 @@
+[
+  {
+    "id": "severe-bleeding",
+    "title": "Severe bleeding",
+    "icon": "\ud83e\ude78"
+  },
+  {
+    "id": "shock",
+    "title": "Signs of shock",
+    "icon": "\u26a0\ufe0f"
+  },
+  {
+    "id": "hypothermia",
+    "title": "Hypothermia",
+    "icon": "\ud83e\udd76"
+  },
+  {
+    "id": "heat-illness",
+    "title": "Heat illness",
+    "icon": "\ud83e\udd75"
+  },
+  {
+    "id": "fracture",
+    "title": "Suspected fracture / splinting",
+    "icon": "\ud83e\uddb4"
+  },
+  {
+    "id": "burns",
+    "title": "Burns",
+    "icon": "\ud83d\udd25"
+  }
+]

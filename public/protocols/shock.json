@@ -1,0 +1,25 @@
+{
+  "id": "shock",
+  "title": "Signs of shock",
+  "icon": "\u26a0\ufe0f",
+  "source": {
+    "name": "MedlinePlus: Shock \u2014 U.S. National Library of Medicine",
+    "url": "https://medlineplus.gov/ency/article/000039.htm"
+  },
+  "steps": [
+    "Call or radio for help now.",
+    "Check that the person is breathing. Be ready to start CPR if they stop.",
+    "Have the person lie down on their back.",
+    "If there is no head, neck, back or leg injury, raise the feet about twelve inches.",
+    "Keep the person warm with a blanket or extra layers, including underneath them.",
+    "Do not give anything to eat or drink.",
+    "If they vomit, turn them onto their side, keeping the spine in line if injury is suspected.",
+    "Recheck breathing and responsiveness every few minutes."
+  ],
+  "callForHelp": [
+    "Pale, cool, clammy skin",
+    "Rapid pulse or breathing",
+    "Confusion or reduced responsiveness"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}

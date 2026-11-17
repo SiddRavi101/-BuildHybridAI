@@ -1,0 +1,25 @@
+{
+  "id": "burns",
+  "title": "Burns",
+  "icon": "\ud83d\udd25",
+  "source": {
+    "name": "MedlinePlus: Burns \u2014 U.S. National Library of Medicine",
+    "url": "https://medlineplus.gov/ency/article/000030.htm"
+  },
+  "steps": [
+    "Stop the burning. Remove the person from the source.",
+    "Cool the burn with cool, not ice-cold, running water.",
+    "Remove rings, watches and tight items before swelling starts.",
+    "Do not remove clothing that is stuck to the skin.",
+    "Do not break blisters.",
+    "Cover the burn loosely with a clean, dry, non-stick dressing.",
+    "Do not apply butter, oil or home remedies.",
+    "Keep the person warm and watch for signs of shock."
+  ],
+  "callForHelp": [
+    "Large or deep burn",
+    "Burns to face, hands, feet, groin or a major joint",
+    "Burns from electricity or chemicals, or trouble breathing"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}

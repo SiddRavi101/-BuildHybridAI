@@ -1,0 +1,26 @@
+{
+  "id": "fracture",
+  "title": "Suspected fracture / splinting",
+  "icon": "\ud83e\uddb4",
+  "source": {
+    "name": "MedlinePlus: Broken bone \u2014 U.S. National Library of Medicine",
+    "url": "https://medlineplus.gov/ency/article/000001.htm"
+  },
+  "steps": [
+    "Check breathing and control any serious bleeding first.",
+    "Keep the injured part still. Do not try to straighten it.",
+    "Cover any open wound with a clean dressing.",
+    "Check feeling, color and pulse below the injury.",
+    "Splint the limb in the position found, including the joints above and below the injury.",
+    "Pad the splint and secure it without cutting off circulation.",
+    "Recheck feeling, color and pulse below the splint.",
+    "Apply a cold pack wrapped in cloth to reduce swelling.",
+    "Watch for signs of shock."
+  ],
+  "callForHelp": [
+    "Bone visible through the skin",
+    "Limb is cold, blue or numb below the injury",
+    "Suspected head, neck, back, hip or thigh injury"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "heat-illness",
+  "title": "Heat illness",
+  "icon": "\ud83e\udd75",
+  "source": {
+    "name": "NIOSH \u2014 Heat-Related Illnesses \u2014 U.S. Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/niosh/heat-stress/"
+  },
+  "steps": [
+    "Move the person to a cooler, shaded area.",
+    "Remove heavy or outer clothing.",
+    "If the person is confused, collapsed, or has hot skin, call for help now. Treat as heat stroke.",
+    "For suspected heat stroke, cool the body quickly: cold water, ice packs, or wet cloths, and fan them.",
+    "Place ice or cold packs at the neck, armpits and groin.",
+    "If the person is alert and not vomiting, give sips of cool water.",
+    "Stay with the person and keep cooling until help takes over."
+  ],
+  "callForHelp": [
+    "Confusion, slurred speech or unconsciousness",
+    "Hot, dry skin or profuse sweating with collapse",
+    "Seizure"
+  ],
+  "reviewStatus": "DEMO CONTENT \u2014 pending review by medical advisor. Not medical advice."
+}
